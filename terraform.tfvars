@@ -1,0 +1,7 @@
+vpc_cidr_block = "10.0.0.0/16"
+subnet_cidr_block = "10.0.10.0/24"
+avail_zone = "us-east-1a"
+env_prefix = "dev"
+my_ip = "105.112.87.226/32"
+instance_type = "t2.micro"
+image_name = "ubuntu/images/hvm-ssd-gp3/ubuntu-noble-24.04-amd64-server-20240423"
